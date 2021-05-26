@@ -1,0 +1,45 @@
+body{
+    background-image: url(1_Dobokocka/bg.png);
+}
+.konténer{
+    width: 930px;
+    margin:0 auto;
+    background-color: lightblue;
+    font-family: Verdana;
+    color: darkblue;
+}
+.képek{
+    margin-left: 30px;
+    width: 240px;
+    height:250px;
+}
+.táblázat{
+    margin:0 auto;
+    width: 90%;
+}
+.szöveg{
+    text-align: justify;
+}
+.középső{
+    padding-top: 80px;
+}
+.cucc{
+    padding-top: 50px;
+}
+h1{
+    color: red;
+}
+h2{
+    color: red;
+    font-size: 17px;
+}
+.szövegek{
+    font-size: small;
+    font-style: italic;
+}
+.belső{
+    margin: 30px 30px;
+}
+.vonal{
+    border-bottom: red 2px solid;
+}
